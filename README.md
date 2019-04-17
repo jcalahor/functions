@@ -5,6 +5,8 @@ show capabilities of functions as objects
 sample run:
 enter lambda to use:lambda x: x * 10
 executing <function calc.<locals>.context.<locals>.m1 at 0x000000000251AA60> current value is 10
+  
+  
 executing <function calc.<locals>.context.<locals>.m2 at 0x000000000253ABF8> current value is 20
 executing <function calc.<locals>.context.<locals>.m3 at 0x000000000253AEA0> current value is 2000
 executing <function calc.<locals>.context.<locals>.m1 at 0x000000000251AA60> current value is 11
