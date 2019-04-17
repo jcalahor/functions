@@ -1,8 +1,11 @@
+# functions
+show capabilities of functions as objects<br/>
+
+
 The python file shows the different capabilities that python has around functions as objects feature. Wondering how this can be implemented in modern programming languages such as c#, f# or kotlin. feel free to submit a pull request for further improvements or provide a counterparty sample in other language to see if other language can beat this :) by using less lines of code or better architecture around it
 
 
-# functions
-show capabilities of functions as objects<br/>
+
 
 
 sample run:<br/>
