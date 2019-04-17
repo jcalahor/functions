@@ -31,12 +31,3 @@ def calc(calc_p):
 l = input("enter lambda to use:")
 calc((eval(l), [10, 11, 13]))
 
-
-
-#[l(10) for l in c]
-
-
-#from functools import reduce
-#product = reduce((lambda x, y: x * y), )
-
-#print (product)
